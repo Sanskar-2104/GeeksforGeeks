@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/smallest-divisor/1
+
 class Solution {
     int smallestDivisor(int[] arr, int k) {
         int left = 1;

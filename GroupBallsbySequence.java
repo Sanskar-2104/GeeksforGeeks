@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/group-balls-by-sequence/1
+
 import java.util.*;
 
 class Solution {

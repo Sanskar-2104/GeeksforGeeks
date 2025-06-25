@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/check-frequencies4211/1
+
 class Solution {
     boolean sameFreq(String s) {
         Map<Character, Integer> freqMap = new HashMap<>();

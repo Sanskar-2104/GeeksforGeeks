@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/game-with-string4100/1
+
 class Solution {
     public int minValue(String s, int k) {
         int[] freq = new int[26];

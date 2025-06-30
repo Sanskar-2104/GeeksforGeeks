@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/max-min-height--170647/1
+
 class Solution {
     public int maxMinHeight(int[] arr, int k, int w) {
         int n = arr.length;

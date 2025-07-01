@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/substrings-of-length-k-with-k-1-distinct-elements/1
+
 class Solution {
     public int substrCount(String s, int k) {
         int n = s.length();

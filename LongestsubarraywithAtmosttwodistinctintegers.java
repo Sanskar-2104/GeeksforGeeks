@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/fruit-into-baskets-1663137462/1
+
 class Solution {
     public int totalElements(int[] arr) {
         int n = arr.length;

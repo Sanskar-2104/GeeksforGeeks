@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/subarrays-with-at-most-k-distinct-integers/1
+
 class Solution {
     public int countAtMostK(int[] arr, int k) {
         int left = 0, right = 0;

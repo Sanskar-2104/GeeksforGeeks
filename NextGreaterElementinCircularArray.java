@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/next-greater-element/1
+
 class Solution {
     public ArrayList<Integer> nextLargerElement(int[] arr) {
         int n = arr.length;

@@ -1,3 +1,5 @@
+//http://geeksforgeeks.org/problems/next-element-with-greater-frequency--170637/1
+
 class Solution {
     public ArrayList<Integer> findGreater(int[] arr) {
         int n = arr.length;

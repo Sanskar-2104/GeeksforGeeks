@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/trail-of-ones3242/1
+
 class Solution {
     public int countConsec(int n) {
         if (n < 2) return 0;

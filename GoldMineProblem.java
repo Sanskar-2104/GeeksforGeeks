@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/gold-mine-problem2608/1
+
 class Solution {
     public int maxGold(int[][] mat) {
         int n = mat.length;

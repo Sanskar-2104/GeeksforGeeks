@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/cutting-binary-string1342/1
+
 class Solution {
     public int cuts(String s) {
         int n = s.length();

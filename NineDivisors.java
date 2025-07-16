@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/nine-divisors3751/1
+
 class Solution {
     public static int countNumbers(int n) {
         List<Integer> primes = sieve((int)Math.sqrt(n));

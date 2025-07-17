@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/power-of-k-in-n-where-k-may-be-non-prime4206/1
+
 import java.util.*;
 
 class Solution {

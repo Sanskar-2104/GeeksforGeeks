@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/lcm-triplet1501/1
+
 class Solution {
     public int lcmTriplets(int n) {
         if (n == 1) return 1;

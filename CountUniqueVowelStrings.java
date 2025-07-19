@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/count-unique-vowel-strings/1
+
 class Solution {
     public int vowelCount(String s) {
         Map<Character, List<Integer>> vowelMap = new HashMap<>();

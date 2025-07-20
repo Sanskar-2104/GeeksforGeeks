@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/count-numbers-containing-specific-digits/1
+
 class Solution {
     public int countValid(int n, int[] arr) {
         boolean[] targetDigits = new boolean[10];

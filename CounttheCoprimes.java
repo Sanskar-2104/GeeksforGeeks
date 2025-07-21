@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/count-the-coprimes/1
+
 class Solution {
     static final int MAX = 10001;
 

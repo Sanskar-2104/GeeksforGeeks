@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1
+
 class Solution {
     public int missingNumber(int[] arr) {
         int n = arr.length;

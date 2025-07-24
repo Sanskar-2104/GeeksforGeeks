@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/last-moment-before-all-ants-fall-out-of-a-plank/1
+
 class Solution {
     public int getLastMoment(int n, int[] left, int[] right) {
         int maxTime = 0;

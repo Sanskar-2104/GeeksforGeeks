@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/set-matrix-zeroes/1
+
 class Solution {
     public void setMatrixZeroes(int[][] mat) {
         int n = mat.length;

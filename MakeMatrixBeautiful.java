@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/make-matrix-beautiful-1587115620/1
+
 class Solution {
     public static int balanceSums(int[][] mat) {
         int n = mat.length;

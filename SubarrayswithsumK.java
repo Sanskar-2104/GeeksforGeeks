@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/subarrays-with-sum-k/1
+
 class Solution {
     public int cntSubarrays(int[] arr, int k) {
         HashMap<Integer, Integer> prefixSumMap = new HashMap<>();

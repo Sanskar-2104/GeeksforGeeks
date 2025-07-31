@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/powerfull-integer--170647/1
+
 class Solution {
     public int powerfulInteger(int[][] intervals, int k) {
         TreeMap<Integer, Integer> map = new TreeMap<>();

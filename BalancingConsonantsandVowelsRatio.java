@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/balancing-consonants-and-vowels-ratio/1
+
 class Solution {
     public int countBalanced(String[] arr) {
         Set<Character> vowels = new HashSet<>(Arrays.asList('a','e','i','o','u'));

@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/longest-subarray-with-majority-greater-than-k/1
+
 class Solution {
     public int longestSubarray(int[] arr, int k) {
         int n = arr.length;

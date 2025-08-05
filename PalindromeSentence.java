@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/string-palindromic-ignoring-spaces4723/1
+
 class Solution {
     public boolean isPalinSent(String s) {
         StringBuilder cleaned = new StringBuilder();

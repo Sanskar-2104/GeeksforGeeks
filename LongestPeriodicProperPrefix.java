@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/longest-periodic-proper-prefix/1
+
 class Solution {
     int getLongestPrefix(String s) {
         int n = s.length();

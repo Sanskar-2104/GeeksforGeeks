@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/count-palindrome-sub-strings-of-a-string0652/1
+
 class Solution {
     public int countPS(String s) {
         int n = s.length();

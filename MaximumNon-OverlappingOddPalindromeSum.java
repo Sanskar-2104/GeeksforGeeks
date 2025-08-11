@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/maximum-non-overlapping-odd-palindrome-sum/1
+
 class Solution {
     public int maxSum(String s) {
         int n = s.length();

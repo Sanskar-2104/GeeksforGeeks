@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/shop-in-candy-store1145/1
+
 class Solution {
     public ArrayList<Integer> minMaxCandy(int[] prices, int k) {
         ArrayList<Integer> ans = new ArrayList<>();

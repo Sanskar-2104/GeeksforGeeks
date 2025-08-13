@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/tywins-war-strategy0527/1
+
 class Solution {
     public int minSoldiers(int[] arr, int k) {
         int n = arr.length;

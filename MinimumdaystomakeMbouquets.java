@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/problems/minimum-days-to-make-m-bouquets/1
+
 class Solution {
     public int minDaysBloom(int[] arr, int k, int m) {
         int n = arr.length;
